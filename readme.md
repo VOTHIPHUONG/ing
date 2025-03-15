@@ -1,11 +1,6 @@
-### Instagram Clone App - Firebase | Kotlin Coroutines | MVVM 
-#####      Developed by Developer Samuel Akram © Follow me on instagram @samuelcodes or email me: dev.samakram@gmail.com
 
-##### YouTube Tutorial: https://www.youtube.com/watch?v=Jk0ysdgE-AQ&list=PLKETiCsEsH0qat2OeP9KB5UmnVGN_sjwB
 
-#### Demo
 
-![App Demo](./images/DEMO.gif)
 
 
 #### Firebase Firestore Structure 
